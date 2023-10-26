@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #060405;
+
+}
+
+.heading{
+    width: 80%;
+    height: 100vh;
+    margin: 80px;
+    margin-left: 110px;
+    /* background-color: red; */
+    text-align: left;
+}
+
+.head{
+    font-family: 'Playpen Sans', cursive;
+    width: 60%;
+    height: 60px;
+    /* background-color: aqua; */
+    margin: 30px;
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+.academic{
+    font-family: 'Playpen Sans', cursive;
+    /* background-color: blue; */
+    border-top: 2px solid wheat;
+    width: 96.5%;
+    height: 80%;
+    margin: 30px;
+    display: flexbox;
+    color: whitesmoke;
+
+}
+
+.academic-img{
+    font-family: 'Playpen Sans', cursive;
+    font-size: 14px;
+    width: 70%;
+    height: 90%;
+    background-color: blueviolet;
+    border-radius: 30% 200%;
+    margin-top: 20px;
+    margin-left: 5px;
+
+
+}
+.academic-text{
+    width: 25%;
+    height: 50%;
+    /* background-color: orange; */
+    background-image:url(200w.gif);
+    background-size: cover;
+    border-radius: 20px 0px;
+    margin-top: -300px;
+    margin-left: 74%;
+}
+
+
+.journey{
+    font-family: 'Playpen Sans', cursive;
+    /* background-color: blue; */
+    border-top: 2px solid wheat;
+    width: 77%;
+    height: 700px;
+    margin: 30px;
+    margin-left: 140px;
+    display: flexbox;
+    color: whitesmoke;
+}
+
+.journey-img{
+    font-family: 'Playpen Sans', cursive;
+    font-size: 14px;
+    width: 70%;
+    height: 80%;
+    background-color: blue;
+    border-radius: 200% 30%;
+    margin-top: 20px;
+    margin-left: 5px;
+
+}
+
+.journey-text{
+    width: 237px;
+    height: 237px;
+    background-color: orange;
+    margin-top: -350px;
+    background-image: url(301w.gif);
+    background-size: cover;
+    margin-left: 74%;
+}
+
+.vision{
+    font-family: 'Playpen Sans', cursive;
+    /* background-color: blue; */
+    border-top: 2px solid wheat;
+    width: 77%;
+    height: 700px;
+    margin: 30px;
+    margin-left: 140px;
+    display: flexbox;
+    color: whitesmoke;
+}
+
+.vision-img{
+    font-family: 'Playpen Sans', cursive;
+    font-size: 14px;
+    width: 70%;
+    height: 80%;
+    background-color: violet;
+    border-radius: 30% 200%;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.vision-text{
+    width: 237px;
+    height: 237px;
+    background-color: orange;
+    margin-top: -350px;
+    background-image: url(13w.jpg);
+    background-size: cover;
+    margin-left: 74%;
+}
